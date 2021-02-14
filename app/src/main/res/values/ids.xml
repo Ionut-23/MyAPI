@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_details" type="id">id1</item>
+    <item name="b_buscar" type="id">id2</item>
+    <item name="tv_resultados" type="id">id3</item>
+    <item name="progressBar" type="id">id4</item>
+</resources>
